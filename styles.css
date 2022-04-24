@@ -160,3 +160,38 @@ a {
   font-size: 24px;
   padding-right: 128px;
 }
+
+.fourth-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 110px;
+}
+
+.call-to-action {
+  display: flex;
+  background-color: #3882F6;
+  height: 150px;
+  width: 1020px;
+  justify-content: center;
+  gap: 160px;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.text-primary {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.text-secondary {
+  color: #E5E7EB;
+  margin-top: 4px;
+  font-size: 18px;
+}
+
+.call-to-action .sign-up {
+  margin: 0;
+  border: 2px solid white;
+}
