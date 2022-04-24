@@ -195,3 +195,17 @@ a {
   margin: 0;
   border: 2px solid white;
 }
+
+.footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.footer .text {
+  color: #FFFFFF;
+  font-size: 18px;
+  margin: 0;
+}
